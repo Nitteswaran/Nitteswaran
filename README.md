@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I’m Nittes, Aspiring Software Engineer</h1>
+<h1 align="center">Hey 👋 I’m Nittes, Software Engineer</h1>
 
 ###
 
